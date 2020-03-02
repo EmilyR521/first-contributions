@@ -42,6 +42,7 @@ jigyasa
 - [Spiros Eleana](https://github.com/SpirosKontolatis)
 - Vaibhav Kaushal
 - Mi'Angel Pata
+- John Doe
 - [Jesse Lau]()
 - [Francisco Vargas](https://github.com/fjvarg4k)
 - [Amir Afrimian](https://github.com/amiraf)
